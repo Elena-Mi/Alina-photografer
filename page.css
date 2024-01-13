@@ -1,0 +1,24 @@
+nav.bar {
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.nav-link:hover {
+    background-color: antiquewhite;
+    text-transform: uppercase;
+}
+
+.btn:hover{
+    background-color: antiquewhite;
+}
+.card {
+    border-color: antiquewhite;
+}
+.btn {
+    color: black;
+    border-color: antiquewhite;
+}
+.link {
+    text-decoration: none;
+}
